@@ -1,0 +1,12 @@
+{
+  "name": "thawatchai-app",
+  "displayName": "thawatchai-app",
+  "expo": {
+    "name": "thawatchai-app",
+    "slug": "thawatchai-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
